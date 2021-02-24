@@ -1,0 +1,51 @@
+body {
+  padding-top: 56px;
+  background-color: #141414;
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
+}
+
+nav{
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+  font-size: 0.98rem !important;
+  color: #fff;
+  letter-spacing: 0.0625em;
+  background-color: #212529;
+}
+
+a{
+  font-size: 1rem !important;
+  color: #fed136 !important;
+    padding-right: 0.5rem !important;
+    padding-left: 0.5rem !important;
+    display: block !important;
+    padding: 0.5rem 1rem !important;
+    text-decoration: none !important;
+    background-color: transparent !important;
+    box-sizing: border-box !important;
+    cursor: pointer !important;
+    text-align: -webkit-match-parent !important;
+    list-style: none !important;
+    font-weight: 400 !important;
+    line-height: 1.5 !important;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0) !important;
+}
+
+footer{
+  background-color: white;
+  color: black;
+  padding: 0 !important;
+  padding-top: .8rem !important;
+  padding-bottom: .8rem !important;
+}
+
+.terminos{
+  letter-spacing: 0 !important;
+}
+
+.copy{
+  color: #1f1f1f;
+}
+
+ 
